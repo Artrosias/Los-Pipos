@@ -1,0 +1,131 @@
+Generi:
+Metal
+Blues
+Rock
+-------
+Artisti:
+(Metal)
+Dream Theater
+Opeth
+Novembre
+--------
+(Blues)
+Bud Spancer Blues Explosions
+Ray Charles
+Robert Johnson
+--------
+(Rock)
+Afterhours
+Massimo Volume
+Dire Straits
+--------
+Album:
+(Metal)
+Images and words
+Damnation
+Materia
+(Blues)
+Vivi blues muori ripeti
+Ray Charles
+King of the delta blues singers
+(Rock)
+Quello che non c'è
+Il nuotatore
+Brothers in arms
+--------
+Brani
+(Metal)
+-Dream Theater-
+1.Pull Me Under
+2.Another Day
+3.Take The Time
+4.Surrounded
+5.Metropolis - Part I - "The Miracle And The Sleeper"
+6.Under A Glass Moon
+7.Wait For Sleep
+8.Learning To Live
+
+-Opeth-
+1Windowpane 
+2.In My Time of Need 
+3.Death Whispered a Lullaby 
+4.Closure 
+5.Hope Leaves 
+6.To Rid the Disease 
+7.Ending Credits 
+8.Weakness 
+
+-Novembre-
+1.Verne 
+2.Memoria Stoica/Vetro 
+3.Reason 
+4.Aquamarine 
+5.Jules 
+6.Geppetto 
+7.Comedia 
+8.The Promise 
+9.Materia 
+10.Croma 
+11.Nothijngrad 
+--------------
+(Blues)
+-Bud Spancer Blues Explosions-
+1.E tu?
+2.La donna è blu
+3.Dove
+4.Di fronte a te, di fronte a me
+5.Allacci e sleghi
+6.Presto sarò chi sono
+7.Coca
+8.Enduro
+9.Io e il demonio
+10.Calipso
+
+-Robert Johnson-
+1.Cross road blues
+2.Hellhound on my trail
+3.Me and the devil
+4.Swett home chicago
+
+-Ray Charles-
+1.I've got woman
+2.Hit the road jack
+3.Bye bye love
+4.Unchain my hearth
+5.The right time
+------------
+(Rock)
+-Afterhours-
+1.Quello che non c'è 
+2.Bye Bye Bombay 
+3.Sulle labbra 
+4.Varanasi baby 
+5.Non sono immaginario 
+6.La gente sta male 
+7.Bungee jumping 
+8.Ritorno a casa 
+9.Il mio ruolo 
+
+-Massimo volume-
+1.Una voce a Orlando 
+2.La ditta dell'acqua minerale 
+3.Amica prudenza 
+4.Il nuotatore 
+5.Nostra Signora del caso 
+6.L'ultima notte del mondo 
+7.Fred 
+8.Mia madre & la morte del gen. José Sanjurjo 
+9.Vedremo domani 
+
+-Dire Straits-
+1.So Far Away 
+2.Money for Nothing 
+3.Walk of Life 
+4.Your Latest Trick 
+5.Why Worry 
+6.Ride Across the River 
+7.The Man's Too Strong 
+8.One World 
+9.Brothers in Arms 
+
+

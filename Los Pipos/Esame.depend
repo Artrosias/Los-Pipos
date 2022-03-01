@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1613771344 source:c:\users\ale99\desktop\esame\main.c
+	<stdio.h>
+	"RLM.h"
+	"canzoni.h"
+	"admin.h"
+	"ospite.h"
+
+1613771319 c:\users\ale99\desktop\esame\rlm.h
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+
+1613771406 c:\users\ale99\desktop\esame\canzoni.h
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+
+1613771444 c:\users\ale99\desktop\esame\admin.h
+	<stdio.h>
+	<string.h>
+
+1613771478 c:\users\ale99\desktop\esame\ospite.h
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+
